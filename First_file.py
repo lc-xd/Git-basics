@@ -4,3 +4,7 @@
 #This is my code
 
 print("WOW first commit")
+
+#adding another piece of code
+
+print("love merging & branching!")
